@@ -23,7 +23,7 @@
   Operator  : Marcel520
   Stack     : Angular · React Native · Spring Boot · Node.js
   Focus     : Web Development · Mobile · UI/UX
-  Motto     : "Mon code tourne. Ton avis, non."
+  Motto     : "Je laisse les lignes parler. Les mots fatiguent."
 ```
 
 ---
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,nodejs,typescript,java,tailwind,figma,git&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=angular,react,python,typescript,java,html,css,js,figma,git&theme=dark&perline=8" />
 
 </div>
 
@@ -42,7 +42,7 @@
 ```
   Frontend (Angular/React)  ████████████████░░░░  83%   pendant que tu lis, je ship
   Mobile (React Native)     ███████████████░░░░░  78%   iOS & Android. Les deux.
-  Backend (Spring Boot)     ██████████████░░░░░░  72%   REST API, auth, DB
+  Backend (Spring Boot)     ██████████████░░░░░░  72%   l'ombre du système
   UI/UX Design              █████████████░░░░░░░  68%   beau ET fonctionnel
 ```
 
@@ -70,7 +70,7 @@
 ```
   GitHub    :  github.com/Marcel520-pro
 
-  "Je ne prouve rien. Mon GitHub parle."
+  "Tout est écrit quelque part dans les logs."
 ```
 
 <div align="center">
