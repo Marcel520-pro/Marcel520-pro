@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:2d1b69,100:7c3aed&height=220&section=header&text=Marcel520&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%7C%20Mobile%20Developer&descAlignY=62&descColor=c4b5fd&descSize=14&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:2d1b69,100:7c3aed&height=220&section=header&text=Marcel520&fontSize=80&fontFamily=Orbitron&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Je%20code.%20Les%20autres%20commentent.&descAlignY=62&descColor=c4b5fd&descSize=14&descAlign=50" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=7C3AED&center=true&vCenter=true&width=580&lines=whoami+%3E+Marcel520;Web+Dev+%7C+Mobile+Dev+%7C+Full+Stack;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Node;Building+things+that+matter.;If+it+runs%2C+it+can+be+improved." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=2600&pause=1000&color=7C3AED&center=true&vCenter=true&width=580&lines=whoami+%3E+Marcel520;Le+code+ne+ment+pas.+Les+gens+si.;J%27ai+pas+de+concurrents%2C+j%27ai+des+spectateurs.;Full+Stack+ou+rien.;Pendant+qu%27ils+parlent%2C+je+deploie." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -21,9 +21,9 @@
 └─# cat /etc/whoami
 
   Operator  : Marcel520
-  Stack     : React · Next.js · React Native · Node.js
+  Stack     : Angular · React Native · Spring Boot · Node.js
   Focus     : Web Development · Mobile · UI/UX
-  Motto     : "Build in silence. Let the code speak."
+  Motto     : "Mon code tourne. Ton avis, non."
 ```
 
 ---
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,reactnative,tailwind,figma,git&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=angular,react,nodejs,typescript,java,tailwind,figma,git&theme=dark&perline=8" />
 
 </div>
 
@@ -40,10 +40,10 @@
 
 ### `./skills`
 ```
-  Frontend (Angular/React)   ████████████████░░░░  83%   composants, SSR, routing
-  Mobile (React Native)   ███████████████░░░░░  78%   iOS & Android, Expo
-  Backend (Spring boot)  ██████████████░░░░░░  72%   REST API, auth, DB
-  UI/UX Design            █████████████░░░░░░░  68%   Figma, design systems
+  Frontend (Angular/React)  ████████████████░░░░  83%   pendant que tu lis, je ship
+  Mobile (React Native)     ███████████████░░░░░  78%   iOS & Android. Les deux.
+  Backend (Spring Boot)     ██████████████░░░░░░  72%   REST API, auth, DB
+  UI/UX Design              █████████████░░░░░░░  68%   beau ET fonctionnel
 ```
 
 ---
@@ -69,7 +69,8 @@
 ### `./contact`
 ```
   GitHub    :  github.com/Marcel520-pro
-  "Le silence du sage vaut mieux que le bruit du fou."
+
+  "Je ne prouve rien. Mon GitHub parle."
 ```
 
 <div align="center">
@@ -79,5 +80,7 @@
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0a0a0f&height=100&section=footer" />
+
+`"L'excellence est solitaire."`
 
 </div>
