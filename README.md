@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,react,python,typescript,java,html,css,js,figma,git&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=angular,react,python,typescript,java,html,css,js,figma,node,express,git&theme=dark&perline=8" />
 
 </div>
 
@@ -40,10 +40,10 @@
 
 ### `./skills`
 ```
-  Frontend (Angular/React)  ████████████████░░░░  83%   pendant que tu lis, je ship
-  Mobile (React Native)     ███████████████░░░░░  78%   iOS & Android. Les deux.
-  Backend (Spring Boot)     ██████████████░░░░░░  72%   l'ombre du système
-  UI/UX Design              █████████████░░░░░░░  68%   beau ET fonctionnel
+  Frontend (Angular/React)                ████████████████░░░░  83%   pendant que tu lis, je ship
+  Mobile (React Native)                   ███████████████░░░░░  78%   iOS & Android. Les deux.
+  Backend (Spring Boot/node.js/django)    ████████████████░░░░  85%   l'ombre du système
+  UI/UX Design                            █████████████░░░░░░░  68%   beau ET fonctionnel
 ```
 
 ---
