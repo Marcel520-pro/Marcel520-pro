@@ -52,7 +52,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Marcel520-pro&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=c4b5fd&icon_color=a78bfa" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcel520-pro&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcel520-pro&theme=github_dark" />
 
 <br/>
 
